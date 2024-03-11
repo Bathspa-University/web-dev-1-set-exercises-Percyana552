@@ -1,0 +1,26 @@
+.image.gallery{
+  display: inline-block;
+  border: 1px solid hsl(0, 0%, 60%);
+  margin: 5px;
+  width: 200px;
+}
+  
+.image.gallery.description{
+  padding: 10px;
+  text-align: center;
+
+}
+
+
+.image.gallery:hover{
+  border: 1px solid hsl(0, 0%, 60%);
+}
+
+.image.gallery img{
+  width: 100%;/* set the img width to 100% of its container*/
+  height: auto;/*Maintain aspect ratio*/
+}
+
+
+
+
