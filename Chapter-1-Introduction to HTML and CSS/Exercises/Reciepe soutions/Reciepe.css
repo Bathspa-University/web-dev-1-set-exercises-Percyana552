@@ -1,0 +1,17 @@
+body{
+    background-image: url(cp.jpg);
+    background-color: bisque;
+    color:black;
+    text-shadow: 4px 4px 6px rgb(227, 130, 182);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+
+}
+h1,h2,h3,h4{
+    color:deeppink;
+    height: fit-content;
+    width: fit-content;
+    text-shadow: 3px 3px 5px black;
+}
